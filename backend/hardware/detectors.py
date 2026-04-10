@@ -1,5 +1,4 @@
 import threading
-from config import GPIO
 import time
 
 

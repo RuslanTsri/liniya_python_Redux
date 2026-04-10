@@ -1,4 +1,4 @@
-from PySide6.QtWidgets import QMainWindow, QDialog
+from PySide6.QtWidgets import QDialog
 
 from config import IS_FULL_SCREEN
 from ui.alert_ui import Ui_Dialog as AlertUI

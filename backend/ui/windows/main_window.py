@@ -1,11 +1,8 @@
-import time
 import threading
-from utils.logger import logger
 from PySide6.QtCore import QTimer
 from PySide6.QtWidgets import QMainWindow
 
 from config import IS_FULL_SCREEN, IS_FAKE_CHANGE_DETECTORS, UNSELECTED_BUTTON_STYLE_UI, SELECTED_BUTTON_STYLE_UI
-from hardware.detectors import detector
 from ui.main_ui import Ui_MainWindow as MainUI
 from core.settings import config
 from ui.windows.alert_window import AlertWindow
