@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="photo">
-    <file>Group 69.png</file>
-  </qresource>
-  <qresource prefix="newPrefix"/>
-</RCC>

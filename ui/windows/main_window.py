@@ -8,8 +8,7 @@ from config import IS_FULL_SCREEN, IS_FAKE_CHANGE_DETECTORS, UNSELECTED_BUTTON_S
 from hardware.detectors import detector
 from ui.main_ui import Ui_MainWindow as MainUI
 from core.settings import config
-from windows.alert_window import AlertWindow
-
+from ui.windows.alert_window import AlertWindow
 
 class MainWindow(QMainWindow):
     # ТЕПЕР ЛОГІКА ПЕРЕДАЄТЬСЯ У ВІКНО ПРИ ЗАПУСКУ

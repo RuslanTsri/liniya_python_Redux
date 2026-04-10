@@ -9,7 +9,7 @@ from hardware.drivers import DriversArduino
 from hardware.encoders import EncoderArduino
 from hardware.steppers import Steppers
 from core.winding import WindingProcess
-from windows.main_window import MainWindow
+from ui.windows.main_window import MainWindow
 
 class LogStreamProxy:
     def __init__(self, log_func):

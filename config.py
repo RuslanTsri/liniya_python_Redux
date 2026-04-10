@@ -11,6 +11,7 @@ except ImportError:
         HIGH = 1
         LOW = 0
         BCM = 'BCM'
+        BOARD = 'BOARD'
         IN = 'IN'
         OUT = 'OUT'
         PUD_UP = 'PUD_UP'
