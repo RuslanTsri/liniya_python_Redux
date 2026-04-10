@@ -1,6 +1,7 @@
 import threading
-import RPi.GPIO as GPIO
+from config import GPIO
 import time
+
 
 from config import *
 from utils.logger import logger

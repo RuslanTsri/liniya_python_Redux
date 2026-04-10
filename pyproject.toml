@@ -3,5 +3,8 @@ name = "pythonfilamentwinding-redux"
 version = "0.1.0"
 requires-python = ">=3.14"
 dependencies = [
+    "pyserial>=3.5",
     "pyside6>=6.11.0",
+    "python-dotenv>=1.2.2",
+    "the-new-hotness>=1.4.1",
 ]

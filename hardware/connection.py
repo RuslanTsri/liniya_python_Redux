@@ -1,6 +1,6 @@
 import time
 
-from logs import logger
+from utils import logger
 import serial
 
 
