@@ -1,0 +1,7 @@
+{
+    "user_spool_rpm": 120,
+    "filament_meters": 800.0,
+    "filament_thickness": 1.75,
+    "spool_width": 80.0,
+    "parking_margin": 0.0
+}

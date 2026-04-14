@@ -1,0 +1,35 @@
+2026-04-10 12:46:58,123 - Plastic generation - WARNING - RPi.GPIO не знайдено! Використовуємо заглушку для запуску на ПК.
+2026-04-10 12:46:58,125 - Plastic generation - INFO - CODENAME: None
+2026-04-10 12:48:39,787 - Plastic generation - WARNING - RPi.GPIO не знайдено! Використовуємо заглушку для запуску на ПК.
+2026-04-10 12:48:39,789 - Plastic generation - INFO - CODENAME: None
+2026-04-10 12:48:56,301 - Plastic generation - WARNING - RPi.GPIO не знайдено! Використовуємо заглушку для запуску на ПК.
+2026-04-10 12:48:56,303 - Plastic generation - INFO - CODENAME: None
+2026-04-10 12:50:04,375 - Plastic generation - WARNING - RPi.GPIO не знайдено! Використовуємо заглушку для запуску на ПК.
+2026-04-10 12:50:04,377 - Plastic generation - INFO - CODENAME: None
+2026-04-10 12:51:02,086 - Plastic generation - WARNING - RPi.GPIO не знайдено! Використовуємо заглушку для запуску на ПК.
+2026-04-10 12:51:02,088 - Plastic generation - INFO - CODENAME: None
+2026-04-10 12:51:11,471 - Plastic generation - WARNING - RPi.GPIO не знайдено! Використовуємо заглушку для запуску на ПК.
+2026-04-10 12:51:11,473 - Plastic generation - INFO - CODENAME: None
+2026-04-10 12:53:19,493 - Plastic generation - WARNING - RPi.GPIO не знайдено! Використовуємо заглушку для запуску на ПК.
+2026-04-10 12:53:19,495 - Plastic generation - INFO - CODENAME: None
+2026-04-10 12:53:35,861 - Plastic generation - WARNING - RPi.GPIO не знайдено! Використовуємо заглушку для запуску на ПК.
+2026-04-10 12:53:35,863 - Plastic generation - INFO - CODENAME: None
+2026-04-10 12:53:44,175 - Plastic generation - WARNING - RPi.GPIO не знайдено! Використовуємо заглушку для запуску на ПК.
+2026-04-10 12:53:44,177 - Plastic generation - INFO - CODENAME: None
+2026-04-10 12:53:44,234 - Plastic generation - INFO - init app
+2026-04-10 12:53:44,273 - Plastic generation - ERROR - Не вдалося знайти фізичну плату 'drivers'. Вмикаємо емуляцію (Mock).
+2026-04-10 12:53:44,273 - Plastic generation - WARNING - Використовується віртуальна заглушка (MockSerial) для: drivers
+2026-04-10 12:53:44,274 - Plastic generation - ERROR - Не вдалося знайти фізичну плату 'encoders'. Вмикаємо емуляцію (Mock).
+2026-04-10 12:53:44,274 - Plastic generation - WARNING - Використовується віртуальна заглушка (MockSerial) для: encoders
+2026-04-10 12:53:44,398 - Plastic generation - INFO - parking
+2026-04-10 12:53:44,545 - Plastic generation - INFO - run button pressed (held)
+2026-04-10 12:55:56,406 - Plastic generation - WARNING - RPi.GPIO не знайдено! Використовуємо заглушку для запуску на ПК.
+2026-04-10 12:55:56,408 - Plastic generation - INFO - CODENAME: None
+2026-04-10 12:55:56,463 - Plastic generation - INFO - init app
+2026-04-10 12:55:56,504 - Plastic generation - ERROR - Не вдалося знайти фізичну плату 'drivers'. Вмикаємо емуляцію (Mock).
+2026-04-10 12:55:56,505 - Plastic generation - WARNING - Використовується віртуальна заглушка (MockSerial) для: drivers
+2026-04-10 12:55:56,506 - Plastic generation - ERROR - Не вдалося знайти фізичну плату 'encoders'. Вмикаємо емуляцію (Mock).
+2026-04-10 12:55:56,506 - Plastic generation - WARNING - Використовується віртуальна заглушка (MockSerial) для: encoders
+2026-04-10 12:55:56,613 - Plastic generation - INFO - parking
+2026-04-10 12:55:56,760 - Plastic generation - INFO - run button pressed (held)
+2026-04-10 12:56:02,245 - Plastic generation - ERROR - Timeout waiting for 'MOVED' (Cmd: 40400)
